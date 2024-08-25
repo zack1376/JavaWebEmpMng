@@ -1,4 +1,4 @@
-package com.zack.demoweb2;
+package com.zack;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

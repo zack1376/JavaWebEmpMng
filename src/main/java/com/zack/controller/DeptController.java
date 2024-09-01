@@ -12,7 +12,7 @@ import java.util.List;
 @Slf4j
 @RestController
 @RequestMapping("/depts")
-public class RequestController {
+public class DeptController {
     @Autowired
     private DeptService deptService;
 
